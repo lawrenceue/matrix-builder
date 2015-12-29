@@ -3,7 +3,7 @@
   var print, print2;
 
   print = function(a, b, c, d, e, x, y, z) {
-    console.log("IF\n" + "\t 'Matrix Intersect - All Numeric'(");
+    console.log("IF\n" + "\t 'Matrix Intersect - All Numeric'(", x + ", " + a + ", " + b + ", " + y + ", " + c + ", " + d + ") = 1 \nTHEN\n\t" + z + " = " + e + "\nENDIF");
   };
 
 

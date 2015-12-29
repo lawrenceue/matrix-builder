@@ -7,9 +7,8 @@ print = (a,b,c,d,e,x,y,z) ->
       b + ", " +
       y + ", " +
       c + ", " +
-      d + ", " +
-      x + ", " +
-      x + ", " +
+      d + ") = 1 \nTHEN\n\t" +
+      z + " = " + e + "\nENDIF"
     )
     return
 
